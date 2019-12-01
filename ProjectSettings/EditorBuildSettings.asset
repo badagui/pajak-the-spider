@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: bbd1d674b6f67404cb7c805d6d60da02
+  - enabled: 1
+    path: Assets/Scenes/Level Design 1.unity
+    guid: f15a34bb38d3aeb4598dbdf6cc518c1e
+  - enabled: 1
+    path: Assets/Scenes/Level Design monster2.unity
+    guid: e33049f8afd376d428fe19e9f40e5abc
+  - enabled: 1
+    path: Assets/Scenes/Level Design 2_jungle.unity
+    guid: c8e76e68dbadf914ca6e2089d56d2e58
+  m_configObjects: {}

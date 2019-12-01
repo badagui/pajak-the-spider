@@ -1,0 +1,1310 @@
+fileFormatVersion: 2
+guid: 5b3cde30cccab7744a1dbcc7fa86bd7b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3764914736072915429
+    second: art sheet 2_0
+  - first:
+      213: -4922825453935122198
+    second: art sheet 2_1
+  - first:
+      213: 8273270267852539922
+    second: art sheet 2_2
+  - first:
+      213: -2680300302435004091
+    second: art sheet 2_3
+  - first:
+      213: 1583169614512863414
+    second: art sheet 2_4
+  - first:
+      213: 2002705223122537459
+    second: art sheet 2_5
+  - first:
+      213: 6026662875090685698
+    second: art sheet 2_6
+  - first:
+      213: -1821917556039415493
+    second: art sheet 2_7
+  - first:
+      213: -4251617622176683708
+    second: art sheet 2_8
+  - first:
+      213: 3775741955127977847
+    second: art sheet 2_9
+  - first:
+      213: 5117285424393974721
+    second: art sheet 2_10
+  - first:
+      213: 5801987734364723598
+    second: art sheet 2_11
+  - first:
+      213: -9007859466687156241
+    second: art sheet 2_12
+  - first:
+      213: -4193346967240154429
+    second: art sheet 2_13
+  - first:
+      213: 7903969267633485405
+    second: art sheet 2_14
+  - first:
+      213: 2672005143640690385
+    second: art sheet 2_15
+  - first:
+      213: -2024870598748630658
+    second: art sheet 2_16
+  - first:
+      213: -6867563356239146313
+    second: art sheet 2_17
+  - first:
+      213: -530033019024615754
+    second: art sheet 2_18
+  - first:
+      213: 7686803569145262406
+    second: art sheet 2_19
+  - first:
+      213: -2650821156091630908
+    second: art sheet 2_20
+  - first:
+      213: 7465204813792242354
+    second: art sheet 2_21
+  - first:
+      213: -5676559541232567058
+    second: art sheet 2_22
+  - first:
+      213: 7602904687192215202
+    second: art sheet 2_23
+  - first:
+      213: -7685710201553943570
+    second: art sheet 2_24
+  - first:
+      213: -1307392901449646190
+    second: art sheet 2_25
+  - first:
+      213: 1001651066923958995
+    second: art sheet 2_26
+  - first:
+      213: 2019199380593291815
+    second: art sheet 2_27
+  - first:
+      213: -3557226295321745828
+    second: art sheet 2_28
+  - first:
+      213: 5586727391154645784
+    second: art sheet 2_29
+  - first:
+      213: -8452560789161454849
+    second: art sheet 2_30
+  - first:
+      213: -5701005117997135106
+    second: art sheet 2_31
+  - first:
+      213: -2271926860768928182
+    second: art sheet 2_32
+  - first:
+      213: 2762819854463445350
+    second: art sheet 2_33
+  - first:
+      213: -5228634591922970304
+    second: art sheet 2_34
+  - first:
+      213: 1929724094684444537
+    second: art sheet 2_35
+  - first:
+      213: -4171318505993198717
+    second: art sheet 2_36
+  - first:
+      213: -427824726948489375
+    second: art sheet 2_37
+  - first:
+      213: 2636190414177022160
+    second: art sheet 2_38
+  - first:
+      213: 1580528510131978509
+    second: art sheet 2_39
+  - first:
+      213: -3115666424030585970
+    second: art sheet 2_40
+  - first:
+      213: -5740426166960238106
+    second: art sheet 2_41
+  - first:
+      213: 2812723026155614676
+    second: art sheet 2_42
+  - first:
+      213: 305225036558968319
+    second: art sheet 2_43
+  - first:
+      213: 9018794031700336720
+    second: art sheet 2_44
+  - first:
+      213: -3828338855437072682
+    second: art sheet 2_45
+  - first:
+      213: 968708918295752145
+    second: art sheet 2_46
+  - first:
+      213: -6779028697377304757
+    second: art sheet 2_47
+  - first:
+      213: -7197930420729815029
+    second: art sheet 2_48
+  - first:
+      213: -7044216975382256554
+    second: art sheet 2_49
+  - first:
+      213: -8111463237507624247
+    second: art sheet 2_50
+  - first:
+      213: -6159903879555665672
+    second: art sheet 2_51
+  - first:
+      213: 1757168620434266371
+    second: art sheet 2_52
+  - first:
+      213: -2587448706598015686
+    second: art sheet 2_53
+  - first:
+      213: 3409458732646921928
+    second: art sheet 2_54
+  - first:
+      213: 1990729759999407905
+    second: art sheet 2_55
+  - first:
+      213: -5646437662547880361
+    second: art sheet 2_56
+  - first:
+      213: -7520533091979272054
+    second: art sheet 2_57
+  - first:
+      213: 6946011876666335917
+    second: art sheet 2_58
+  - first:
+      213: -5206031036279289607
+    second: art sheet 2_59
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: art sheet 2_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 373
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10ac4bd59f5e334c93111a22092f93c
+      internalID: 3764914736072915429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 373
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f062030d89e03564bb3a7958d145be8c
+      internalID: -4922825453935122198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 373
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04be67207bc9f942aaf2096687a202c
+      internalID: 8273270267852539922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 373
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bda81e0008cd0409ea9ab54fb72b09
+      internalID: -2680300302435004091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_4
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 373
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4938f4594ed390c479b3430ba12d85a6
+      internalID: 1583169614512863414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_5
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 373
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c3220933dc00746aea478c12c00245
+      internalID: 2002705223122537459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_6
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 373
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5660169b4565c684e83cddacd96bd91a
+      internalID: 6026662875090685698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_7
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 373
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06596f8ab86dcc74f8a6e1ae2842c7ba
+      internalID: -1821917556039415493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0399826c5f74e24097138ff97130808
+      internalID: -4251617622176683708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e9eaf15792b525468417fee1d11dbdc
+      internalID: 3775741955127977847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_10
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018c5e930a00e0a49a1516a9bd99dc79
+      internalID: 5117285424393974721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_11
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d42260eab7b3248b601fddd72df57c
+      internalID: 5801987734364723598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_12
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d119c4d4cf44d25458289a31919c041e
+      internalID: -9007859466687156241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_13
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 339
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4760d588bff12664ebfda4c66a55cc0c
+      internalID: -4193346967240154429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_14
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f44d5540df27c419ab45cf40869dab
+      internalID: 7903969267633485405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_15
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63f91d21a8f9f64a86dfd63ca7ae7c5
+      internalID: 2672005143640690385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1fc9a14f37f83349969cb8e371db94f
+      internalID: -2024870598748630658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 306
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4390505fc54e1ae428ea877243217d5e
+      internalID: -6867563356239146313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_18
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 244
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6920343879bb7874e9ffcd67703a601a
+      internalID: -530033019024615754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_19
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 245
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594ec09aa38078a499f0de3341b5007f
+      internalID: 7686803569145262406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_20
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 275
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97dbc19ecab92a6468b1ea06277790e9
+      internalID: -2650821156091630908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_21
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 262
+        width: 54
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9679387af6ba884e95af077ba378f85
+      internalID: 7465204813792242354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_23
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 246
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8508becf074b34b81a178f871b516f
+      internalID: 7602904687192215202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_24
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 246
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b1d6443c933694ba86c58c20d99fad
+      internalID: -7685710201553943570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_25
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 264
+        width: 28
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2183db3aa84e5bb4198a4b8702404a14
+      internalID: -1307392901449646190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_29
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 252
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efde016b3b4c11947b8ff8ae6b1fb0b6
+      internalID: 5586727391154645784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 251
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da5b5a9e0dc8bf64fa82e17825baee2d
+      internalID: -8452560789161454849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_31
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 206
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20de53b0fd733b145820d1094b83bb8c
+      internalID: -5701005117997135106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 205
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4f680da742683459095c3f545b747a
+      internalID: -2271926860768928182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 206
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8361746d99c9c64a93f9e6805a956da
+      internalID: 2762819854463445350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_34
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 209
+        width: 28
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1446916f5a3f7c14794626347438cb4b
+      internalID: -5228634591922970304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_35
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 219
+        width: 54
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d92ff5e3a1f004791bfc33e70f9cf4
+      internalID: 1929724094684444537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_36
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 149
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645f0791603d643499d32f2e300f848b
+      internalID: -4171318505993198717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 37
+        width: 28
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83882769eb79a5e4c99332bee3eda947
+      internalID: -427824726948489375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_38
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 167
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26819a570a3b34f45b8e51117789e3b8
+      internalID: 2636190414177022160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_39
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 116
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d9b1dba1a5b8e419c31d9655bc66af
+      internalID: 1580528510131978509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_40
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 116
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81b11f2f26bec624592d4ef2dbfc001d
+      internalID: -3115666424030585970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_41
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 117
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49645cd022336714ca36341fc5b3cc5f
+      internalID: -5740426166960238106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 100
+        width: 28
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b684286c90ff9e84fa9b9e6491ddc4b3
+      internalID: 2812723026155614676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_43
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 119
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe70fc81385acd84396a3bf74255fe10
+      internalID: 305225036558968319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_51
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 69
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb8e3efd961d3749b717e919eb31975
+      internalID: -6159903879555665672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_56
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 74
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82af7d2b55417044092dbe657cec7291
+      internalID: -5646437662547880361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_57
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 36
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419292b99739d07499f2609209ee536c
+      internalID: -7520533091979272054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_58
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 39
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23d329e93d0dcab40b935e1f47c029a7
+      internalID: 6946011876666335917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_59
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 38
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adf2a94bab15e0449fa7ae3826009f2
+      internalID: -5206031036279289607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 99
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a37d4b353e472429131fb39428edc4
+      internalID: 9018794031700336720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_45
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 84
+        width: 31
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12695ac64839ac644afab2f57a95d54b
+      internalID: -3828338855437072682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 245
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3ec64b07959554cbae1c9a668fd25a
+      internalID: -5676559541232567058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: art sheet 2_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 99
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea02afe8b5a6a6946a4a74c528ea442b
+      internalID: 1001651066923958995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3a7ef1001e3cc464080a0b89881d5858
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
